@@ -1,1 +1,1 @@
-# Swiggy-aSDE---Round-1-coding-test-Magical-Arena
+Magical-Arena
