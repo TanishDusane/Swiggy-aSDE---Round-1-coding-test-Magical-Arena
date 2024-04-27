@@ -63,8 +63,6 @@ A graphical user interface will appear, allowing you to start the game.
 
 ## Contributors
 
-## Contributors
-
 - [Tanish Dusane](https://github.com/TanishDusane/TanishDusane)
 
 ---
